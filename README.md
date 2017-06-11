@@ -7,5 +7,6 @@ What this program does is answer the three following questions:
 
 To run the program:
 
-#step 1: Go to folder where logs.py file is located within your VM 
-#step 2: Run python2 logs.py
+step 1: Go to folder where logs.py file is located within your VM 
+
+step 2: Run python2 logs.py
